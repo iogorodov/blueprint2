@@ -1,4 +1,1 @@
-blueprint2
-==========
-
-A nice template for xmind
+![](/Thumbnails/thumbnail.png?raw=true)
