@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><manifest xmlns="urn:xmind:xmap:xmlns:manifest:1.0"><file-entry full-path="attachments/" media-type=""/><file-entry full-path="attachments/65j3ngi9msef2s1pqlg6h9duuq.png" media-type="image/png"/><file-entry full-path="attachments/7qgqfafo73kn1bf9hkb9bgkvnb.png" media-type="image/png"/><file-entry full-path="content.xml" media-type="text/xml"/><file-entry full-path="META-INF/" media-type=""/><file-entry full-path="META-INF/manifest.xml" media-type="text/xml"/><file-entry full-path="meta.xml" media-type="text/xml"/><file-entry full-path="Revisions/" media-type=""/><file-entry full-path="Revisions/3l5bsaa4cpus6luo1d1tk4rfgv/" media-type=""/><file-entry full-path="Revisions/3l5bsaa4cpus6luo1d1tk4rfgv/revisions.xml" media-type=""/><file-entry full-path="styles.xml" media-type=""/><file-entry full-path="Thumbnails/" media-type=""/><file-entry full-path="Thumbnails/thumbnail.png" media-type="image/png"/></manifest>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="urn:xmind:xmap:xmlns:manifest:1.0">
+    <file-entry full-path="attachments/" media-type=""/>
+    <file-entry full-path="attachments/65j3ngi9msef2s1pqlg6h9duuq.png" media-type="image/png"/>
+    <file-entry full-path="content.xml" media-type="text/xml"/>
+    <file-entry full-path="META-INF/" media-type=""/>
+    <file-entry full-path="META-INF/manifest.xml" media-type="text/xml"/>
+    <file-entry full-path="meta.xml" media-type="text/xml"/>
+    <file-entry full-path="styles.xml" media-type=""/>
+    <file-entry full-path="Thumbnails/" media-type=""/>
+    <file-entry full-path="Thumbnails/thumbnail.png" media-type="image/png"/>
+</manifest>
