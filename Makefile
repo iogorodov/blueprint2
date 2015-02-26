@@ -7,7 +7,7 @@ all: clean $(OUTPUT)
 
 $(OUTPUT): $(SOURCES)
 	zip $(addsuffix .zip,$(basename $(OUTPUT))) $(SOURCES)
-	mv -fT $(addsuffix .zip,$(basename $(OUTPUT))) $(OUTPUT)
+	mv -f $(addsuffix .zip,$(basename $(OUTPUT))) $(OUTPUT)
 
 clean:
 	rm -f $(OUTPUT)
