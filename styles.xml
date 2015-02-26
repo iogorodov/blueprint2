@@ -11,7 +11,7 @@
             <map-properties background="xap:attachments/65j3ngi9msef2s1pqlg6h9duuq.png" svg:fill="#005780"/>
         </style>
         <style id="0c8qpfnfttku7fv70aid7rutg1" type="topic">
-            <topic-properties fo:color="#F0F0F0" fo:font-family="Comic Sans MS" fo:font-size="11pt" svg:fill="$none$"/>
+            <topic-properties fo:color="#F0F0F0" fo:font-family="Comic Sans MS" fo:font-size="10pt" svg:fill="$none$"/>
         </style>
         <style id="5akdodfkncot0icp1t60hn5cr9" type="topic">
             <topic-properties fo:color="#F0F0F0" fo:font-family="Comic Sans MS" fo:font-size="18pt" fo:font-weight="normal" line-class="org.xmind.branchConnection.curve" line-color="#F0F0F0" shape-class="org.xmind.topicShape.noBorder" svg:fill="$none$"/>
