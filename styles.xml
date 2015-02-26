@@ -2,28 +2,28 @@
 <xmap-styles version="2.0" xmlns="urn:xmind:xmap:xmlns:style:2.0" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:svg="http://www.w3.org/2000/svg">
     <automatic-styles>
        <style id="76gkr0p067q3ms8vc9ccbvb8cs" type="relationship">
-            <relationship-properties fo:color="#F0F0F0" fo:font-family="Comic Sans MS" fo:font-size="12pt" line-color="#FFEF99" line-width="2pt" line-pattern="dash"/>
+            <relationship-properties fo:color="#F0F0F0" fo:font-family="Comic Sans MS" fo:font-size="11pt" line-color="#FFEF99" line-width="2pt" line-pattern="dash"/>
         </style>
         <style id="7ci223pb10l28qt27putg1n4ps" type="topic">
-            <topic-properties fo:color="#F0F0F0" fo:font-family="Comic Sans MS" fo:font-size="22pt" fo:font-weight="normal" line-class="org.xmind.branchConnection.curve" line-color="#F0F0F0" line-width="1pt" shape-class="org.xmind.topicShape.ellipse" svg:fill="$none$"/>
+            <topic-properties fo:color="#F0F0F0" fo:font-family="Comic Sans MS" fo:font-size="21pt" fo:font-weight="normal" line-class="org.xmind.branchConnection.curve" line-color="#F0F0F0" line-width="1pt" shape-class="org.xmind.topicShape.ellipse" svg:fill="$none$"/>
         </style>
         <style id="4cpmsbuan6e31eos1pucgfb65t" type="map">
             <map-properties background="xap:attachments/65j3ngi9msef2s1pqlg6h9duuq.png" svg:fill="#005780"/>
         </style>
         <style id="0c8qpfnfttku7fv70aid7rutg1" type="topic">
-            <topic-properties fo:color="#F0F0F0" fo:font-family="Comic Sans MS" fo:font-size="12pt" svg:fill="$none$"/>
+            <topic-properties fo:color="#F0F0F0" fo:font-family="Comic Sans MS" fo:font-size="11pt" svg:fill="$none$"/>
         </style>
         <style id="5akdodfkncot0icp1t60hn5cr9" type="topic">
-            <topic-properties fo:color="#F0F0F0" fo:font-family="Comic Sans MS" fo:font-size="21pt" fo:font-weight="normal" line-class="org.xmind.branchConnection.curve" line-color="#F0F0F0" shape-class="org.xmind.topicShape.noBorder" svg:fill="$none$"/>
+            <topic-properties fo:color="#F0F0F0" fo:font-family="Comic Sans MS" fo:font-size="18pt" fo:font-weight="normal" line-class="org.xmind.branchConnection.curve" line-color="#F0F0F0" shape-class="org.xmind.topicShape.noBorder" svg:fill="$none$"/>
         </style>
         <style id="5akdodfkncot0icp1t60hn5cr8" type="topic">
-            <topic-properties fo:color="#F0F0F0" fo:font-family="Comic Sans MS" fo:font-size="12pt" line-class="org.xmind.branchConnection.curve" shape-class="org.xmind.topicShape.noBorder" svg:fill="none" />
+            <topic-properties fo:color="#F0F0F0" fo:font-family="Comic Sans MS" fo:font-size="11pt" line-class="org.xmind.branchConnection.curve" shape-class="org.xmind.topicShape.noBorder" svg:fill="none" />
         </style>        
         <style id="7hjiptebuanhfct5n4kln144ro" type="topic">
-            <topic-properties fo:color="#F0F0F0" fo:font-family="Comic Sans MS" fo:font-size="14pt" shape-class="org.xmind.topicShape.underline" svg:fill="$none$"/>
+            <topic-properties fo:color="#F0F0F0" fo:font-family="Comic Sans MS" fo:font-size="13pt" shape-class="org.xmind.topicShape.underline" svg:fill="$none$"/>
         </style>
         <style id="2eenp321o8a824j6ikld1ja2fl" type="boundary">
-            <boundary-properties fo:color="#F0F0F0" fo:font-family="Comic Sans MS" fo:font-size="12pt" line-color="#FFF7CC" line-pattern="dash" line-width="1pt" shape-class="org.xmind.boundaryShape.roundedRect" svg:fill="$none$"/>
+            <boundary-properties fo:color="#F0F0F0" fo:font-family="Comic Sans MS" fo:font-size="11pt" line-color="#FFF7CC" line-pattern="dash" line-width="1pt" shape-class="org.xmind.boundaryShape.roundedRect" svg:fill="$none$"/>
         </style>
         <style id="4ijocbhug2k1ks4tb6iq2me7bp" type="summary">
             <summary-properties line-color="#FFF7CC" line-width="1pt" shape-class="org.xmind.summaryShape.round"/>
